@@ -1,0 +1,11 @@
+.DS_Store
+.vscode
+.python-version
+.pytest_cache/
+.spyproject/
+*.dat
+*.ipynb_checkpoints
+_build
+__pycache__/
+dist/
+env*
